@@ -3,14 +3,14 @@
 //2) super ->  use to access the property of parent class.
 //3) ststic -> use for memory managment. It can not declared inside the main method.
 //  Example --->  
-// ststic void a=10;
-// ststic  void display()
+// static void a=10;
+// static  void display()
 // {
-//     "Ststic method is called"
+//     "Static method is called"
 // 
-// ststic
+// static
 // {
-//     "Ststic block is called"
+//     "Static block is called"
 // }
 
 

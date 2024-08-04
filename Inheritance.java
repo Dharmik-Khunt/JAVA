@@ -1,3 +1,4 @@
+//java doesn't support multiple inheritance
 class Parent
 {
     public void show()
