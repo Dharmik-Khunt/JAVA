@@ -1,3 +1,4 @@
+//The this keyword refers to the current object in a method or constructor
 class Cuboid{
     float h,l,b;
     Cuboid(float h,float l,float b){
@@ -16,7 +17,7 @@ class Cuboid{
     }
 }
 
-class one{
+class ThisKeyword{
     public static void main(String[] args) {
         Cuboid c=new Cuboid(0.32f,0.23f,0.123f);
         System.out.println(c.CurvedArea()+" "+c.Area()+" "+c.Volume());

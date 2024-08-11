@@ -2,7 +2,7 @@
 1.interface specifies the behavior of a class by providing an abstract type.
 2.By default, all the fields in interface will be public,final,static.
 3.By default, all the methods in interface will be public and Abstract.
-4.It supports multiple inheritance and used to achieve Abstraction & loose coupling.
+4.It is used to achieve 100% abstraction and multiple inheritance & loose coupling.
 5. We cannnot create instance or object of abstract class & interface.
 */
 
